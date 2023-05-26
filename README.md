@@ -75,6 +75,8 @@ There are 3 experiments conducted in this research
 
 ### Results
 
+Trained on Google Colab free version, Tesla T4, 1 GPU, 15GB GPU memory
+
 |ID | NGF | NDF |S_SIZE| Training Time (s) | Training Time (H:MM:SS) |
 |---|-----|-----|------|-------------|---------|
 | 1 | 32  | 32  | 500  | 586.0322123 | 0:09:46 |
@@ -126,6 +128,7 @@ Experimental results to determine the best LR, at the 100th epoch, the results s
 Daberger J., 2023. Zoo animals. Object detection dataset of animals using Pascal VOC labeling format - XML files. https://www.kaggle.com/datasets/jirka- daberger/zoo-animals
 
 Jordan, M.I. and Mitchell, T.M., 2015. Machine learning: Trends, perspectives, and prospects. Science, 349(6245), pp.255-260.
+
 Kostrikov, I., Yarats, D. and Fergus, R., 2020. Image augmentation is all you need: Regularizing deep reinforcement learning from pixels. arXiv preprint arXiv:2004.13649.
 
 Gregor, K., Danihelka, I., Graves, A., Rezende, D. and Wierstra, D., 2015, June. Draw: A recurrent neural network for image generation. In International conference on machine learning (pp. 1462-1471). PMLR.
